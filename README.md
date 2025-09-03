@@ -2,7 +2,7 @@
 
 Hello 🖥 🌎!
 
-My name is _Thursheyco (thur-shake-o) Arreguin (aa-r-eh-g-IH-n)_, I go by **(shake-o)** for short, and I have been using this repository to keep track of my **Technolgy Skills** for mobile apps that I have currently completed. Also, SkateBudy can be found [here](https://apps.apple.com/us/app/skatebudy/id1557374871) iOS, and [here](https://play.google.com/store/apps/details?id=com.thursheyco.skatebud) Android. For any suggestions or questions on it email me please at sheycoa@gmail.com
+My name is _Thursheyco (thur-shake-o) Arreguin (aa-r-eh-g-IH-n)_, I go by **(shake-o)** for short, and I have been using this repository to keep track of my **Technolgy Skills** for mobile apps that I have currently gained. Also, SkateBudy can be found [here](https://apps.apple.com/us/app/skatebudy/id1557374871) iOS, [here](https://play.google.com/store/apps/details?id=com.thursheyco.skatebud) Android, and follow on Instagram **@SkateBudy**. For any suggestions or questions on it email me please at sheycoa@gmail.com
 
 ## Challenges Completed
 - PickMatch Game in Swift for iOS
@@ -81,6 +81,3 @@ My name is _Thursheyco (thur-shake-o) Arreguin (aa-r-eh-g-IH-n)_, I go by **(sha
 ![Simulator Screen Shot - iPad Pro (12 9-inch) (4th generation) - 2021-07-07 at 14 19 31](https://user-images.githubusercontent.com/40646431/124952741-7d234b00-dfe2-11eb-9044-8424d389c5f0.png)
 
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-07 at 12 22 12](https://user-images.githubusercontent.com/40646431/124953301-05a1eb80-dfe3-11eb-8e4b-feef9e22af6b.png)
-
-
-#SkateLife
