@@ -2,7 +2,7 @@
 
 Hello 🖥 🌎!
 
-My name is _Thursheyco (thur-shake-o) Arreguin (aa-r-eh-g-IH-n)_, I go by **(shake-o)** for short, and I have been using this repository to keep track of my **Technolgy Skills** for mobile apps that I have currently gained. Also, SkateBudy can be found [here](https://apps.apple.com/us/app/skatebudy/id1557374871) iOS, [here](https://play.google.com/store/apps/details?id=com.thursheyco.skatebud) Android, and follow on Instagram **@SkateBudy**. For any suggestions or questions on it email me please at sheycoa@gmail.com
+My name is _Thursheyco (thur-shake-o) Arreguin (aa-r-eh-g-IH-n)_, I go by **(shake-o)** for short, and I have been using this repository to keep track of my **Technology Skills** for mobile apps that I have currently gained. Also, SkateBudy can be found [here](https://apps.apple.com/us/app/skatebudy/id1557374871) iOS, [here](https://play.google.com/store/apps/details?id=com.thursheyco.skatebud) Android, and follow on Instagram **@SkateBudy**. For any suggestions or questions on it email me please at sheycoa@gmail.com
 
 ## Challenges Completed
 - PickMatch Game in Swift for iOS
